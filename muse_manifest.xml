@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://AnneBush.github.io" resolutions="1x,2x" timestamp="1528478750390">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://AnneBush.github.io" resolutions="1x,2x" timestamp="1528730187531">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4203958524" ref="index"/>
-    <file name="nomq_index.css" crc="3791693231" ref="index"/>
-    <file name="book-2-sale.css" crc="282497685" ref="book-2-sale"/>
-    <file name="nomq_book-2-sale.css" crc="321360609" ref="book-2-sale"/>
-    <file name="book-1-sale.css" crc="510887324" ref="book-1-sale"/>
-    <file name="nomq_book-1-sale.css" crc="4117390236" ref="book-1-sale"/>
-    <file name="book-1-thank.css" crc="4020224020" ref="book-1-thank"/>
-    <file name="nomq_book-1-thank.css" crc="4258758271" ref="book-1-thank"/>
-    <file name="book-2-thank.css" crc="3832783355" ref="book-2-thank"/>
-    <file name="nomq_book-2-thank.css" crc="324706162" ref="book-2-thank"/>
+    <file name="index.css" crc="400537727" ref="index"/>
+    <file name="nomq_index.css" crc="98164442" ref="index"/>
+    <file name="book-2-sale.css" crc="142787257" ref="book-2-sale"/>
+    <file name="nomq_book-2-sale.css" crc="3893903653" ref="book-2-sale"/>
+    <file name="book-1-sale.css" crc="4047825682" ref="book-1-sale"/>
+    <file name="nomq_book-1-sale.css" crc="3949514201" ref="book-1-sale"/>
+    <file name="book-1-thank.css" crc="326529595" ref="book-1-thank"/>
+    <file name="nomq_book-1-thank.css" crc="3813283272" ref="book-1-thank"/>
+    <file name="book-2-thank.css" crc="282551400" ref="book-2-thank"/>
+    <file name="nomq_book-2-thank.css" crc="3775770793" ref="book-2-thank"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:book-1-sale:book-2-sale:book-1-thank:book-2-thank"/>
@@ -33,13 +33,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="book-1-sale" alt=""/>
-      <caption webpage="book-1-sale" alt=""/>
-      <caption webpage="book-1-sale" alt=""/>
-      <caption webpage="book-1-sale" alt=""/>
-      <caption webpage="book-1-sale" alt=""/>
-      <caption webpage="book-1-sale" alt=""/>
-      <caption webpage="book-1-sale" alt=""/>
       <caption webpage="book-2-thank" alt=""/>
       <caption webpage="book-2-thank" alt=""/>
       <caption webpage="book-2-thank" alt=""/>
@@ -54,6 +47,13 @@
       <caption webpage="book-1-thank" alt=""/>
       <caption webpage="book-1-thank" alt=""/>
       <caption webpage="book-1-thank" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
       <caption webpage="book-2-sale" alt=""/>
       <caption webpage="book-2-sale" alt=""/>
       <caption webpage="book-2-sale" alt=""/>
@@ -89,9 +89,9 @@
     </file>
     <file name="book-2.jpg" crc="78791029" seo="true" ref="index:book-2-sale:book-1-thank:book-2-thank">
       <caption webpage="index" alt=""/>
-      <caption webpage="book-2-sale" alt=""/>
       <caption webpage="book-2-thank" alt=""/>
       <caption webpage="book-1-thank" alt=""/>
+      <caption webpage="book-2-sale" alt=""/>
     </file>
     <file name="0167x90.png" crc="4006243694" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -157,8 +157,8 @@
     <file name="blank.gif" crc="4208392903" ref="index:book-1-sale:book-2-sale:book-1-thank:book-2-thank"/>
     <file name="book-1.jpg" crc="3905785162" seo="true" ref="book-1-sale:book-1-thank:book-2-thank">
       <caption webpage="book-2-thank" alt=""/>
-      <caption webpage="book-1-sale" alt=""/>
       <caption webpage="book-1-thank" alt=""/>
+      <caption webpage="book-1-sale" alt=""/>
     </file>
     <file name="book-2134x234.jpg" crc="3891578573" seo="true" ref="book-2-sale">
       <caption webpage="book-2-sale" alt=""/>
@@ -167,9 +167,9 @@
       <caption webpage="book-2-sale" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="326959045" seo="true" mt="1528368681301" redirect="true"/>
-  <file name="book-1-sale.html" crc="3848493695" seo="true" mt="1528367869559" redirect="true"/>
-  <file name="book-2-sale.html" crc="155492533" seo="true" mt="1528367751139" redirect="true"/>
-  <file name="book-1-thank.html" crc="4045536075" seo="true" mt="1528368601473" redirect="true"/>
-  <file name="book-2-thank.html" crc="4053198761" seo="true" mt="1528368613231" redirect="true"/>
+  <file name="index.html" crc="4015994251" seo="true" mt="1528729993463" redirect="true"/>
+  <file name="book-1-sale.html" crc="3915995556" seo="true" mt="1528730023752" redirect="true"/>
+  <file name="book-2-sale.html" crc="328681094" seo="true" mt="1528730047676" redirect="true"/>
+  <file name="book-1-thank.html" crc="4080476085" seo="true" mt="1528730081012" redirect="true"/>
+  <file name="book-2-thank.html" crc="4109876845" seo="true" mt="1528730094752" redirect="true"/>
 </manifest>
