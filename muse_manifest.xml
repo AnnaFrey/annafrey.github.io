@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://AnneBush.github.io" resolutions="1x,2x" timestamp="1553680180945">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://AnneBush.github.io" resolutions="1x,2x" timestamp="1553699373263">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="gumroad.css" crc="4182519473" ref="gumroad"/>
-    <file name="nomq_gumroad.css" crc="78983782" ref="gumroad"/>
+    <file name="gumroad.css" crc="300391122" ref="gumroad"/>
+    <file name="nomq_gumroad.css" crc="4174989585" ref="gumroad"/>
     <file name="digistore.css" crc="4270569442" ref="digistore"/>
     <file name="nomq_digistore.css" crc="489268783" ref="digistore"/>
     <file name="haut-book-1-thank-gumroad.css" crc="4229371266" ref="haut-book-1-thank-gumroad"/>
@@ -11,16 +11,16 @@
     <file name="nomq_haar-book-2-sale-digistore.css" crc="421467062" ref="haar-book-2-sale-digistore"/>
     <file name="huat-book-1-thank-digistore.css" crc="339998644" ref="huat-book-1-thank-digistore"/>
     <file name="nomq_huat-book-1-thank-digistore.css" crc="3809650357" ref="huat-book-1-thank-digistore"/>
-    <file name="haut-book-1-sale-gumroad.css" crc="4248828586" ref="haut-book-1-sale-gumroad"/>
-    <file name="nomq_haut-book-1-sale-gumroad.css" crc="4223277748" ref="haut-book-1-sale-gumroad"/>
+    <file name="haut-book-1-sale-gumroad.css" crc="144304443" ref="haut-book-1-sale-gumroad"/>
+    <file name="nomq_haut-book-1-sale-gumroad.css" crc="193720272" ref="haut-book-1-sale-gumroad"/>
     <file name="haar-book-2-thank-gumroad.css" crc="4231584178" ref="haar-book-2-thank-gumroad"/>
     <file name="nomq_haar-book-2-thank-gumroad.css" crc="297721274" ref="haar-book-2-thank-gumroad"/>
     <file name="haut-book-1-sale-digistore.css" crc="4017989777" ref="haut-book-1-sale-digistore"/>
     <file name="nomq_haut-book-1-sale-digistore.css" crc="443522890" ref="haut-book-1-sale-digistore"/>
-    <file name="index.css" crc="4001983329" ref="index"/>
-    <file name="nomq_index.css" crc="4152831330" ref="index"/>
-    <file name="haar-book-2-sale--gumroad.css" crc="3776882048" ref="haar-book-2-sale--gumroad"/>
-    <file name="nomq_haar-book-2-sale--gumroad.css" crc="4114977713" ref="haar-book-2-sale--gumroad"/>
+    <file name="index.css" crc="69414193" ref="index"/>
+    <file name="nomq_index.css" crc="98164442" ref="index"/>
+    <file name="haar-book-2-sale--gumroad.css" crc="4269593673" ref="haar-book-2-sale--gumroad"/>
+    <file name="nomq_haar-book-2-sale--gumroad.css" crc="91514581" ref="haar-book-2-sale--gumroad"/>
     <file name="haar-book-2-thank-digistore.css" crc="514852263" ref="haar-book-2-thank-digistore"/>
     <file name="nomq_haar-book-2-thank-digistore.css" crc="3974777165" ref="haar-book-2-thank-digistore"/>
   </folder>
@@ -38,6 +38,27 @@
   <folder name="images">
     <file name="master-favicon.ico" crc="3903758046" ref="index"/>
     <file name="header-01.png" crc="3923944206" seo="true" ref="index:haut-book-1-sale-digistore:haar-book-2-sale-digistore:huat-book-1-thank-digistore:haar-book-2-thank-digistore:digistore:gumroad:haut-book-1-sale-gumroad:haut-book-1-thank-gumroad:haar-book-2-sale--gumroad:haar-book-2-thank-gumroad">
+      <caption webpage="huat-book-1-thank-digistore" alt=""/>
+      <caption webpage="huat-book-1-thank-digistore" alt=""/>
+      <caption webpage="huat-book-1-thank-digistore" alt=""/>
+      <caption webpage="huat-book-1-thank-digistore" alt=""/>
+      <caption webpage="huat-book-1-thank-digistore" alt=""/>
+      <caption webpage="huat-book-1-thank-digistore" alt=""/>
+      <caption webpage="huat-book-1-thank-digistore" alt=""/>
+      <caption webpage="haar-book-2-sale-digistore" alt=""/>
+      <caption webpage="haar-book-2-sale-digistore" alt=""/>
+      <caption webpage="haar-book-2-sale-digistore" alt=""/>
+      <caption webpage="haar-book-2-sale-digistore" alt=""/>
+      <caption webpage="haar-book-2-sale-digistore" alt=""/>
+      <caption webpage="haar-book-2-sale-digistore" alt=""/>
+      <caption webpage="haar-book-2-sale-digistore" alt=""/>
+      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
+      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
+      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
+      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
+      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
+      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
+      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
       <caption webpage="haar-book-2-thank-digistore" alt=""/>
       <caption webpage="haar-book-2-thank-digistore" alt=""/>
       <caption webpage="haar-book-2-thank-digistore" alt=""/>
@@ -52,62 +73,6 @@
       <caption webpage="haar-book-2-thank-gumroad" alt=""/>
       <caption webpage="haar-book-2-thank-gumroad" alt=""/>
       <caption webpage="haar-book-2-thank-gumroad" alt=""/>
-      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
-      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
-      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
-      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
-      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
-      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
-      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
-      <caption webpage="haut-book-1-sale-digistore" alt=""/>
-      <caption webpage="haut-book-1-sale-digistore" alt=""/>
-      <caption webpage="haut-book-1-sale-digistore" alt=""/>
-      <caption webpage="haut-book-1-sale-digistore" alt=""/>
-      <caption webpage="haut-book-1-sale-digistore" alt=""/>
-      <caption webpage="haut-book-1-sale-digistore" alt=""/>
-      <caption webpage="haut-book-1-sale-digistore" alt=""/>
-      <caption webpage="gumroad" alt=""/>
-      <caption webpage="gumroad" alt=""/>
-      <caption webpage="gumroad" alt=""/>
-      <caption webpage="gumroad" alt=""/>
-      <caption webpage="gumroad" alt=""/>
-      <caption webpage="gumroad" alt=""/>
-      <caption webpage="gumroad" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="haar-book-2-sale-digistore" alt=""/>
-      <caption webpage="haar-book-2-sale-digistore" alt=""/>
-      <caption webpage="haar-book-2-sale-digistore" alt=""/>
-      <caption webpage="haar-book-2-sale-digistore" alt=""/>
-      <caption webpage="haar-book-2-sale-digistore" alt=""/>
-      <caption webpage="haar-book-2-sale-digistore" alt=""/>
-      <caption webpage="haar-book-2-sale-digistore" alt=""/>
-      <caption webpage="huat-book-1-thank-digistore" alt=""/>
-      <caption webpage="huat-book-1-thank-digistore" alt=""/>
-      <caption webpage="huat-book-1-thank-digistore" alt=""/>
-      <caption webpage="huat-book-1-thank-digistore" alt=""/>
-      <caption webpage="huat-book-1-thank-digistore" alt=""/>
-      <caption webpage="huat-book-1-thank-digistore" alt=""/>
-      <caption webpage="huat-book-1-thank-digistore" alt=""/>
-      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
-      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
-      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
-      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
-      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
-      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
-      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
-      <caption webpage="digistore" alt=""/>
-      <caption webpage="digistore" alt=""/>
-      <caption webpage="digistore" alt=""/>
-      <caption webpage="digistore" alt=""/>
-      <caption webpage="digistore" alt=""/>
-      <caption webpage="digistore" alt=""/>
-      <caption webpage="digistore" alt=""/>
       <caption webpage="haut-book-1-thank-gumroad" alt=""/>
       <caption webpage="haut-book-1-thank-gumroad" alt=""/>
       <caption webpage="haut-book-1-thank-gumroad" alt=""/>
@@ -115,21 +80,56 @@
       <caption webpage="haut-book-1-thank-gumroad" alt=""/>
       <caption webpage="haut-book-1-thank-gumroad" alt=""/>
       <caption webpage="haut-book-1-thank-gumroad" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="haut-book-1-sale-digistore" alt=""/>
+      <caption webpage="haut-book-1-sale-digistore" alt=""/>
+      <caption webpage="haut-book-1-sale-digistore" alt=""/>
+      <caption webpage="haut-book-1-sale-digistore" alt=""/>
+      <caption webpage="haut-book-1-sale-digistore" alt=""/>
+      <caption webpage="haut-book-1-sale-digistore" alt=""/>
+      <caption webpage="haut-book-1-sale-digistore" alt=""/>
+      <caption webpage="digistore" alt=""/>
+      <caption webpage="digistore" alt=""/>
+      <caption webpage="digistore" alt=""/>
+      <caption webpage="digistore" alt=""/>
+      <caption webpage="digistore" alt=""/>
+      <caption webpage="digistore" alt=""/>
+      <caption webpage="digistore" alt=""/>
+      <caption webpage="gumroad" alt=""/>
+      <caption webpage="gumroad" alt=""/>
+      <caption webpage="gumroad" alt=""/>
+      <caption webpage="gumroad" alt=""/>
+      <caption webpage="gumroad" alt=""/>
+      <caption webpage="gumroad" alt=""/>
+      <caption webpage="gumroad" alt=""/>
+      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
+      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
+      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
+      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
+      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
+      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
+      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
     </file>
     <file name="01.png" crc="3888863177" seo="true" ref="index:digistore:gumroad">
       <caption webpage="index" alt=""/>
-      <caption webpage="gumroad" alt=""/>
       <caption webpage="digistore" alt=""/>
+      <caption webpage="gumroad" alt=""/>
     </file>
     <file name="02.png" crc="3975367874" seo="true" ref="index:digistore:gumroad">
       <caption webpage="index" alt=""/>
-      <caption webpage="gumroad" alt=""/>
       <caption webpage="digistore" alt=""/>
+      <caption webpage="gumroad" alt=""/>
     </file>
     <file name="03.png" crc="3849713596" seo="true" ref="index:digistore:gumroad">
       <caption webpage="index" alt=""/>
-      <caption webpage="gumroad" alt=""/>
       <caption webpage="digistore" alt=""/>
+      <caption webpage="gumroad" alt=""/>
     </file>
     <file name="book-1200x350.jpg" crc="3905785162" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -148,15 +148,15 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="book-2.jpg" crc="78791029" seo="true" ref="index:haar-book-2-sale-digistore:huat-book-1-thank-digistore:haar-book-2-thank-digistore:digistore:gumroad:haut-book-1-thank-gumroad:haar-book-2-sale--gumroad:haar-book-2-thank-gumroad">
+      <caption webpage="huat-book-1-thank-digistore" alt=""/>
       <caption webpage="haar-book-2-thank-digistore" alt=""/>
       <caption webpage="haar-book-2-thank-gumroad" alt=""/>
-      <caption webpage="digistore" alt=""/>
+      <caption webpage="haut-book-1-thank-gumroad" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="haar-book-2-sale-digistore" alt=""/>
-      <caption webpage="huat-book-1-thank-digistore" alt=""/>
-      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
+      <caption webpage="digistore" alt=""/>
       <caption webpage="gumroad" alt=""/>
-      <caption webpage="haut-book-1-thank-gumroad" alt=""/>
+      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
     </file>
     <file name="0167x90.png" crc="4006243694" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -221,33 +221,33 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:haut-book-1-sale-digistore:haar-book-2-sale-digistore:huat-book-1-thank-digistore:haar-book-2-thank-digistore:digistore:gumroad:haut-book-1-sale-gumroad:haut-book-1-thank-gumroad:haar-book-2-sale--gumroad:haar-book-2-thank-gumroad"/>
     <file name="book-1.jpg" crc="3905785162" seo="true" ref="haut-book-1-sale-digistore:huat-book-1-thank-digistore:haar-book-2-thank-digistore:haut-book-1-sale-gumroad:haut-book-1-thank-gumroad:haar-book-2-thank-gumroad">
+      <caption webpage="huat-book-1-thank-digistore" alt=""/>
+      <caption webpage="haut-book-1-sale-digistore" alt=""/>
+      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
       <caption webpage="haar-book-2-thank-digistore" alt=""/>
       <caption webpage="haar-book-2-thank-gumroad" alt=""/>
-      <caption webpage="huat-book-1-thank-digistore" alt=""/>
-      <caption webpage="haut-book-1-sale-gumroad" alt=""/>
-      <caption webpage="haut-book-1-sale-digistore" alt=""/>
       <caption webpage="haut-book-1-thank-gumroad" alt=""/>
     </file>
-    <file name="book-2134x234.jpg" crc="3891578573" seo="true" ref="haar-book-2-sale-digistore">
-      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
-      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
-      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
-      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
+    <file name="book-2134x234.jpg" crc="3891578573" seo="true" ref="haar-book-2-sale-digistore:haar-book-2-sale--gumroad">
       <caption webpage="haar-book-2-sale-digistore" alt=""/>
       <caption webpage="haar-book-2-sale-digistore" alt=""/>
       <caption webpage="haar-book-2-sale-digistore" alt=""/>
       <caption webpage="haar-book-2-sale-digistore" alt=""/>
+      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
+      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
+      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
+      <caption webpage="haar-book-2-sale--gumroad" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3932816171" seo="true" mt="1553679843871" redirect="true"/>
+  <file name="index.html" crc="4140735873" seo="true" mt="1553699324626" redirect="true"/>
   <file name="haut-book-1-sale-digistore.html" crc="3785460584" seo="true" mt="1553680081708" redirect="true"/>
   <file name="haar-book-2-sale-digistore.html" crc="187354755" seo="true" mt="1553680098336" redirect="true"/>
   <file name="huat-book-1-thank-digistore.html" crc="3865652885" seo="true" mt="1553680118252" redirect="true"/>
   <file name="haar-book-2-thank-digistore.html" crc="3768000732" seo="true" mt="1553680134878" redirect="true"/>
   <file name="digistore.html" crc="4117681426" seo="true" mt="1553680064316" redirect="true"/>
-  <file name="gumroad.html" crc="3785945320" seo="true" mt="1553679899924" redirect="true"/>
-  <file name="haut-book-1-sale-gumroad.html" crc="173726592" seo="true" mt="1553679937725" redirect="true"/>
+  <file name="gumroad.html" crc="450358683" seo="true" mt="1553699340696" redirect="true"/>
+  <file name="haut-book-1-sale-gumroad.html" crc="516188471" seo="true" mt="1553699318091" redirect="true"/>
   <file name="haut-book-1-thank-gumroad.html" crc="379137605" seo="true" mt="1553679980543" redirect="true"/>
-  <file name="haar-book-2-sale--gumroad.html" crc="354988570" seo="true" mt="1553679960190" redirect="true"/>
+  <file name="haar-book-2-sale--gumroad.html" crc="4199396978" seo="true" mt="1553699305354" redirect="true"/>
   <file name="haar-book-2-thank-gumroad.html" crc="450674881" seo="true" mt="1553680001961" redirect="true"/>
 </manifest>

@@ -227,6 +227,9 @@
     <image:image>
       <image:loc>http://AnneBush.github.io/images/book-2.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/book-2134x234.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://AnneBush.github.io/haar-book-2-thank-gumroad.html</loc>
