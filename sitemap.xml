@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://AnneBush.github.io/index.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <lastmod>2019-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -91,8 +91,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://AnneBush.github.io/book-1-sale.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <loc>http://AnneBush.github.io/haut-book-1-sale-digistore.html</loc>
+    <lastmod>2019-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -103,8 +103,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://AnneBush.github.io/book-2-sale.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <loc>http://AnneBush.github.io/haar-book-2-sale-digistore.html</loc>
+    <lastmod>2019-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -118,8 +118,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://AnneBush.github.io/book-1-thank.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <loc>http://AnneBush.github.io/huat-book-1-thank-digistore.html</loc>
+    <lastmod>2019-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -133,8 +133,107 @@
     </image:image>
   </url>
   <url>
-    <loc>http://AnneBush.github.io/book-2-thank.html</loc>
-    <lastmod>2018-06-11</lastmod>
+    <loc>http://AnneBush.github.io/haar-book-2-thank-digistore.html</loc>
+    <lastmod>2019-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/header-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/book-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/book-1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AnneBush.github.io/digistore.html</loc>
+    <lastmod>2019-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/header-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/03.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/book-2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AnneBush.github.io/gumroad.html</loc>
+    <lastmod>2019-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/header-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/03.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/book-2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AnneBush.github.io/haut-book-1-sale-gumroad.html</loc>
+    <lastmod>2019-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/header-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/book-1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AnneBush.github.io/haut-book-1-thank-gumroad.html</loc>
+    <lastmod>2019-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/header-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/book-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/book-1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AnneBush.github.io/haar-book-2-sale--gumroad.html</loc>
+    <lastmod>2019-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/header-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/book-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/book-2134x234.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AnneBush.github.io/haar-book-2-thank-gumroad.html</loc>
+    <lastmod>2019-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
