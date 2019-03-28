@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://AnneBush.github.io/index.html</loc>
-    <lastmod>2019-03-27</lastmod>
+    <lastmod>2019-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -170,7 +170,7 @@
   </url>
   <url>
     <loc>http://AnneBush.github.io/gumroad.html</loc>
-    <lastmod>2019-03-27</lastmod>
+    <lastmod>2019-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -203,7 +203,7 @@
   </url>
   <url>
     <loc>http://AnneBush.github.io/haut-book-1-thank-gumroad.html</loc>
-    <lastmod>2019-03-27</lastmod>
+    <lastmod>2019-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -214,6 +214,9 @@
     </image:image>
     <image:image>
       <image:loc>http://AnneBush.github.io/images/book-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AnneBush.github.io/images/book-2134x234.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -233,7 +236,7 @@
   </url>
   <url>
     <loc>http://AnneBush.github.io/haar-book-2-thank-gumroad.html</loc>
-    <lastmod>2019-03-27</lastmod>
+    <lastmod>2019-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
